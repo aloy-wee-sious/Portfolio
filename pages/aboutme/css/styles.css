@@ -18,3 +18,16 @@ body{
 }
 
 
+#background{
+	background-color: #e5f2ff;
+	border-radius: 15px;
+}
+
+#titles{
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+#dates{
+	text-align: center;
+}

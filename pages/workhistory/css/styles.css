@@ -17,4 +17,16 @@ body{
 	padding-bottom: 10px;
 }
 
+#titles{
+	font-size: 20px;
+	margin-top: 30px;
+}
 
+#background{
+	background-color: #e5f2ff;
+	border-radius: 15px;
+}
+
+#dates{
+	text-align: center;
+}
